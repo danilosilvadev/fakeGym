@@ -1,0 +1,12 @@
+{
+  "name": "fakeGymExpo",
+  "displayName": "fakeGymExpo",
+  "expo": {
+    "name": "fakeGymExpo",
+    "slug": "fakeGymExpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
